@@ -42,3 +42,7 @@ font-size: 4rem;
     order: -1;
     margin: 15px;
 }
+
+.emoji a {
+    margin-top: auto;
+}
